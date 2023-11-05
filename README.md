@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 > - 💻 CSharp Software Developer at [GrupoSkill](https://br.linkedin.com/company/gruposkill)
 > - :mortar_board: Bachelor's degree, Computer Science at [UNIP](https://www.unip.br/) (12/2021)
 > - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
-> - :mortar_board: Postgraduate, System Architecture .Net with Azure at [FIAP](https://www.fiap.com.br) (06/2024)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
