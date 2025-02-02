@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 :dart: I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 > - 📍  From SP - Brazil
-> - 💻 .Net Developer at [MTP Métodos e Tecnologia – Brasil](https://mtp.com.br/))
+> - 💻 .Net Developer at [MTP Métodos e Tecnologia – Brasil](https://mtp.com.br/)
 > - :mortar_board: Bachelor's degree, Computer Science at [UNIP](https://www.unip.br/) (12/2021)
 > - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
 
